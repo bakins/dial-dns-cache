@@ -1,3 +1,4 @@
+// Package dial provides a DNS caching network Dialer.
 package dial
 
 import (
